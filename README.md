@@ -1,4 +1,4 @@
-# Robosuite Installation Guide
+# Robosuite/ Mujoco/ Mujoco-py Installation Guide
 
 ### Please see the **Linux_install.pdf** for full guide
 
